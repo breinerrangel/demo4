@@ -8,7 +8,7 @@ let contador=true
 let error_emial=document.getElementById("error-emial")
 let error_usuario=document.getElementById("error-usuario")
 function llevar(){
-    location.href="/formulario2/index.html"
+    location.href="https://breinerrangel.github.io/card/"
 }
     
 function mostarErrorEmail(){ 
